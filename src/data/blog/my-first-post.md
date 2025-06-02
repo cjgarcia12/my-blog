@@ -1,7 +1,7 @@
 ---
 title: "Welcome to My Blog - Building Modern Web Applications & Data Solutions"
-pubDatetime: 2025-01-18T15:30:00Z
-modDatetime: 2025-01-18T15:30:00Z
+pubDatetime: 2025-06-02T15:30:00Z
+modDatetime: 2025-06-02T15:30:00Z
 featured: true
 draft: false
 tags:
