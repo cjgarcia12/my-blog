@@ -19,3 +19,7 @@ jobs:
     - name: Create Build
       run: npm run build
       shell: bash
+
+    - name: Restart pm2 Server Process
+      run: pm2 restart my-blog --silent
+      shell: bash
